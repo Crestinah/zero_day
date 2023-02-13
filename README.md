@@ -13,4 +13,4 @@ Crestinah Mudau
 crestinahm@gmail.com
 
 ## License
-There were licences used in this project
+There were no licences used in this project
